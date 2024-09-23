@@ -28,15 +28,3 @@ This project is a **Book Recommendation System** that uses Machine Learning algo
 3. **GUI Interaction**: Users can select their preferred language through the GUI. Once a language is selected, the system recommends the **top 50 books** in that language.
 4. **Real-Time Interaction**: Recommendations are updated in real-time based on the selected preferences. The system allows users to fine-tune their preferences for even more personalized recommendations.
    
-## Getting Started
-### Prerequisites
-- Python 3.x
-- Tkinter (for the GUI)
-- Pandas, NumPy (for data processing)
-- Scikit-learn (for Machine Learning algorithms)
-
-### Installation
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/book-recommendation-system.git
-   cd book-recommendation-system
